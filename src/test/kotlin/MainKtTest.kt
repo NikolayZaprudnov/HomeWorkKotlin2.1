@@ -20,7 +20,7 @@ class MainKtTest {
         val card = "Мир"
         val moneyInMounth = 0.0
         val result = calculateComission(amount, card, moneyInMounth)
-        assertEquals(3750.0, result, 0.5)
+        assertEquals(37500.0, result, 0.5)
     }
     @Test
     fun calculateComiisionWithMastercardCard(){
@@ -86,5 +86,5 @@ class MainKtTest {
         val result = calculateComission(amount, card, moneyInMounth)
         assertEquals(0.0, result, 0.5)
     }
-    
+
 }
