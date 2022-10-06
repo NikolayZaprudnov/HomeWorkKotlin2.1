@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-10-06T15:46:56" hostname="LAPTOP-R0G8NQOH" time="0.013">
+  <properties/>
+  <testcase name="calculateComiisionWithMirCard" classname="MainKtTest" time="0.011"/>
+  <testcase name="calculateComiisionWithMaestroCard" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculateComiisionWithMastercardCardNoComission" classname="MainKtTest" time="0.001"/>
+  <testcase name="calculateComissionVk_pay" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculateComiisionWithMirCardMinComission" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculateComissionNoComission" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculateComiisionWithMastercardCard" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculateComiisionWithVisaCardMinComission" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculateComiisionWithVisaCard" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculateComiisionWithMaestrodCardNoComission" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
